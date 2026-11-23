@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a Python-based processing pipeline for parsing, synchronizing, and correcting floating Wind Lidar (WLS) measurements using vessel motion data. The code implements the post-processing techniques described in https://doi.org/10.5194/egusphere-2026-6846 (Preprint).
+This project provides a Python-based processing pipeline for parsing, synchronizing, and correcting floating Wind Lidar (WLS) measurements using vessel motion data. The code implements the post-processing techniques described in https://doi.org/10.5194/egusphere-2026-6846 (Preprint). This analysis was made possible by the project “FINO-Datenbank – Erfassung und Archivierung forschungsrelevanter ozeanographischer und meteorologischer Daten auf den FINO-Plattformen” (grant no. 03EE3115), specifically the work on meteorological measurements at the FINO1 platform.
 
 The primary objective is to compensate for the influence of vessel motion on Wind Lidar measurements.
 
