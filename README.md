@@ -1,5 +1,7 @@
 # Wind Lidar Motion Correction
 
+Raw Data Link: https://zenodo.org/records/24505919 
+
 ## Overview
 
 This project provides a Python-based processing pipeline for parsing, synchronizing, and correcting floating Wind Lidar (WLS) measurements using vessel motion data. The code implements the post-processing techniques described in https://doi.org/10.5194/egusphere-2026-6846 (Preprint). This analysis was made possible by the project “FINO-Datenbank – Erfassung und Archivierung forschungsrelevanter ozeanographischer und meteorologischer Daten auf den FINO-Plattformen” (grant no. 03EE3115), specifically the work on meteorological measurements at the FINO1 platform.
@@ -80,7 +82,7 @@ pip install -r requirements.txt
 
 ## Input Data
 
-The processing pipeline requires the following data sources.
+The processing pipeline requires the following data sources, available for download in Zenodo: https://zenodo.org/records/24505919
 
 ### Wind Lidar data
 
